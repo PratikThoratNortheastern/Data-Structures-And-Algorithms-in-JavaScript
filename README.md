@@ -4,7 +4,7 @@
 
 > The Solutions will be in JavaScript.
 
-## List of questions used before starting Leetcode
+## 🤔 List of questions used before starting Leetcode
 
 > I will be using [PRE-LEETCODE](https://blog.faangshui.com/p/before-leetcode)
 
