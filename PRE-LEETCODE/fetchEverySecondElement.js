@@ -1,3 +1,5 @@
+"use strict";
+
 // #3 Fetch Every Second Element
 // Write a function that accesses every other element in the array, starting from the first element.
 
